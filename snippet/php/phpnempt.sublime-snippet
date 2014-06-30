@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+if(!empty(${1:\$variable})) {
+
+}
+]]></content>
+    <tabTrigger>phpnempt</tabTrigger>
+</snippet>
